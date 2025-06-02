@@ -1,23 +1,22 @@
 # section information
 section:
-  name: প্রোজেক্ট
+  name: Projects
   id: projects
   enable: true
-  weight: 4
+  weight: 5
   showOnNavbar: true
-  template: sections/projects.html
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # filter buttons
 buttons:
-- name: সব বিষয়
+- name: All
   filter: "all"
-- name: প্রোফেসনাল
+- name: Professional
   filter: "professional"
-- name: প্রাতিষ্ঠানিক
+- name: Academic
   filter: "academic"
-- name: শখের প্রোজেক্ট
+- name: Hobby
   filter: "hobby"
 
 # your projects
@@ -58,6 +57,7 @@ projects:
 
 - name: Toha
   logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/toha_website.png
   role: Owner
   timeline: "Jun 2019 - Present"
   repo: https://github.com/hossainemruz/toha

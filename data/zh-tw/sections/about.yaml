@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: 自我介紹
   id: about
   enable: true
   weight: 1
@@ -11,15 +11,11 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: ITSOWER Software Tech Development LTD.
+  name: 元威資訊股份有限公司
   url: "https://www.itsower.com.tw"
 
-# your resume. this file path should be relative to you "static" directory
-# Dreprecated. Use resourceLinks instead.
-# resume: "files/resume.pdf"
-
 # a summary about you
-summary: 'Optimistic and collaborative full-stack engineer skilled in .NET, SQL, Vue, and DevOps workflows.<br/>Transitioned from government consulting to softwarevia self-learning (LeetCode, online resources).<br/>experienced in team knowledge sharing, internal tooling, and documentation culture building.<br/>Led Git Flow adoption, CI/CD pipelines, .NET 6 migration, Docker infrastructure, and Nuxt frontend infra.<br/>Delivered secure, high-throughput systems for major financial clients (e.g. CTBC, HuaNan, Shin Kong).<br/>Strong domain knowledge in banking processes and enterprise development lifecycle.'
+summary: "樂觀、擅長協作的全端工程師，熟悉 .NET、SQL、Vue 及 DevOps 工作流程。<br/>由政府顧問轉職至軟體開發，透過 LeetCode 與線上資源自學程式。<br/>具備團隊知識分享、內部工具開發與技術文件文化建立經驗。<br/>主導 Git Flow、CI/CD、.NET 6 遷移、Docker 架構與 Nuxt 前端基礎建設。<br/>參與中信、華銀、新光等大型金融客戶之高效能、安全性系統開發。<br/>熟悉銀行業務流程與企業級系統開發生命週期。"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,7 +35,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "我的履歷"
   url: "files/resume.pdf"
 
 # Show your badges

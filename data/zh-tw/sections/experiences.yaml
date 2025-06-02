@@ -1,0 +1,83 @@
+# section information
+section:
+  name: 工作經歷
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: 元威資訊股份有限公司 (ITSOWER)
+    url: "https://www.itsower.com.tw"
+    location: 台北，台灣
+    logo: /images/sections/experiences/itsower.png
+    overview: 專注於銀行與企業內部系統建置的軟體顧問公司。
+  positions:
+  - designation: 軟體工程師
+    start: 2021年9月
+    responsibilities:
+    - 開發金融業全端系統：中信、華銀、新光
+    - 維運與開發內部系統：農金總務、富邦點數系統等
+    - 設計並維護 NuGet 共用函式庫與專案範本
+    - 推動 Git Flow 與 Azure DevOps 自動化流程
+    - 協助 .NET Framework 專案遷移至 .NET 6
+    - 建置 Docker Infra 與 Agent Server
+    - 建立 Nuxt 前端架構與團隊 KM 制度
+
+- company:
+    name: 精誠資訊股份有限公司（由德義資訊股份有限公司派駐）
+    location: 台北，台灣
+    logo: /images/sections/experiences/systex.png
+    overview: 參與中華郵政新一代系統專案開發，進行在地協作。
+  positions:
+  - designation: 全端工程師
+    start: 2021年7月
+    end: 2021年9月
+    responsibilities:
+    - 強化後端 .NET Framework 交易邏輯
+    - 改寫 Angular 前端並使用 RxJS 資料處理
+    - 維護 NuGet 共用邏輯函式庫
+    - 協助 SA 分析 COBOL 與 DB2 資料
+
+- company:
+    name: 創鈺國際科技股份有限公司 (Creatidea)
+    location: 台北，台灣
+    logo: /images/sections/experiences/creatidea.png
+    overview: 政府數位轉型專案的軟體開發廠商。
+  positions:
+  - designation: .NET 網頁工程師
+    start: 2019年6月
+    end: 2020年6月
+    responsibilities:
+    - 開發與維護桃園市交通裁決處 .NET 系統
+    - 整合 API、檔案上傳下載、簡訊與自動化工具
+    - 負責弱掃、無障礙、壓力測試等修復與優化
+    - 撰寫系統文件與建置 Azure DevOps CI/CD 流程
+
+- company:
+    name: 百阜科技股份有限公司 (Balvenie)
+    location: 台北，台灣
+    logo: /images/sections/experiences/balvenie.png
+    overview: 協助內部營運的人力支援與行政系統。
+  positions:
+  - designation: 行政助理
+    start: 2018年11月
+    end: 2019年4月
+    responsibilities:
+    - 協助人事與日常行政作業
+    - 協助薪資與辦公室資產管理
+
+- company:
+    name: 勤業眾信聯合會計師事務所 (Deloitte & Touche)
+    location: 台北，台灣
+    logo: /images/sections/experiences/deloitte.png
+    overview: 國際知名審計與顧問服務公司。
+  positions:
+  - designation: 稅務部資深助理
+    start: 2015年11月
+    end: 2018年5月
+    responsibilities:
+    - 負責投審會、對外投資等政府申請案件
+    - 處理境外公司設立與變更業務
+    - 協辦外籍人士工作證與居留證申請

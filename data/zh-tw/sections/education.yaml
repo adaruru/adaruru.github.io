@@ -1,0 +1,17 @@
+section:
+  name: 學歷
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: 雙主修 企業管理學系/財務金融學系
+  icon: fa-graduation-cap
+  timeframe: 2010-2015
+  institution:
+    name: 國立中央大學（National Central University）
+    url: "https://www.ncu.edu.tw/en/index.html"
+    logo: /images/sections/education/NCU.png
+  summary: "雙主修企管與財金，累積經濟、會計、財務管理與策略規劃等商管專業基礎知識。"

@@ -1,0 +1,53 @@
+# section information
+section:
+  name: 技能
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  filter: true
+
+buttons:
+- name: 全部
+  filter: "all"
+- name: 後端
+  filter: "backend"
+- name: 前端
+  filter: "frontend"
+- name: 資料庫
+  filter: "database"
+- name: 維運
+  filter: "devops"
+- name: 其他
+  filter: "others"
+
+skills:
+- name: .NET Framework / .NET Core
+  logo: /images/sections/skills/dotnet.png
+  summary: "熟悉 ASP.NET MVC、Web API、.NET Core 架構設計與開發，具備中大型系統建置與維運經驗。"
+  categories: [ "backend" ]
+
+- name: SQL Server / MySQL
+  logo: /images/sections/skills/sql.png
+  summary: "熟悉 DB schema 設計、T-SQL 查詢優化、Index 設計與報表資料處理流程。"
+  categories: [ "database" ]
+
+- name: Vue / Angular
+  logo: /images/sections/skills/vue.png
+  summary: "具備中型專案的前端架構規劃與元件開發經驗，熟悉 RxJS、表單處理、元件溝通。"
+  categories: [ "frontend" ]
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "具備將應用程式容器化並整合內部基礎架構的實戰經驗，建置自有 Dev/Build Agent。"
+  categories: [ "devops" ]
+
+- name: Git / Azure DevOps
+  logo: /images/sections/skills/git.png
+  summary: "推動 Git Flow 與 CI/CD 自動化，熟悉 Repo 管理、Pull Request 規範與工作流程整合。"
+  categories: [ "devops" ]
+
+- name: NuGet / Internal Tools
+  logo: /images/sections/skills/nuget.png
+  summary: "開發並維護共用元件套件與專案範本，整合團隊工具以提升開發效率。"
+  categories: [ "others" ]

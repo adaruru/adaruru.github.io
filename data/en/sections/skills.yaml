@@ -6,66 +6,48 @@ section:
   weight: 2
   showOnNavbar: true
   filter: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
 
-# filter buttons
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
-  filter: "language"
-- name: Container
-  filter: "container"
+- name: Backend
+  filter: "backend"
+- name: Frontend
+  filter: "frontend"
+- name: Database
+  filter: "database"
+- name: DevOps
+  filter: "devops"
 - name: Others
   filter: "others"
 
-# Your Skills.
-# Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: .NET Framework / .NET Core
+  logo: /images/sections/skills/dotnet.png
+  summary: "Experienced in ASP.NET MVC, Web API, and .NET Core architecture design and development. Skilled in building and maintaining mid-to-large scale systems."
+  categories: [ "backend" ]
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: SQL Server / MySQL
+  logo: /images/sections/skills/sql.png
+  summary: "Proficient in schema design, T-SQL optimization, indexing strategies, and report data processing workflows."
+  categories: [ "database" ]
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+- name: Vue / Angular
+  logo: /images/sections/skills/vue.png
+  summary: "Experienced in frontend architecture and component development for medium-scale projects. Skilled in RxJS, form handling, and component communication."
+  categories: [ "frontend" ]
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
+  summary: "Hands-on experience containerizing applications and integrating with internal infrastructure. Built and maintained in-house Dev/Build agents."
+  categories: [ "devops" ]
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
-
-- name: Git
+- name: Git / Azure DevOps
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
+  summary: "Promoted Git Flow and CI/CD automation. Experienced in repository management, PR guidelines, and workflow integration."
+  categories: [ "devops" ]
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+- name: NuGet / Internal Tools
+  logo: /images/sections/skills/nuget.png
+  summary: "Developed and maintained shared component packages and project templates. Integrated team tools to enhance development productivity."
+  categories: [ "others" ]
