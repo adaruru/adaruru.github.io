@@ -21,7 +21,7 @@ experiences:
     - 維運與開發內部系統：農金總務、富邦點數系統等
     - 設計並維護 NuGet 共用函式庫與專案範本
     - 推動 Git Flow 與 Azure DevOps 自動化流程
-    - 協助 .NET Framework 專案遷移至 .NET 6
+    - 協助 .NET Framework 專案遷移至 .NET 6、.NET 8
     - 建置 Docker Infra 與 Agent Server
     - 建立 Nuxt 前端架構與團隊 KM 制度
 
@@ -35,10 +35,10 @@ experiences:
     start: 2021年7月
     end: 2021年9月
     responsibilities:
-    - 強化後端 .NET Framework 交易邏輯
+    - 舊服務邏輯移植 Net 後端服務
     - 改寫 Angular 前端並使用 RxJS 資料處理
     - 維護 NuGet 共用邏輯函式庫
-    - 協助 SA 分析 COBOL 與 DB2 資料
+    - 分析 COBOL 與 DB2 資料
 
 - company:
     name: 創鈺國際科技股份有限公司 (Creatidea)
@@ -50,10 +50,9 @@ experiences:
     start: 2019年6月
     end: 2020年6月
     responsibilities:
-    - 開發與維護桃園市交通裁決處 .NET 系統
+    - 開發與維護政府相關單位 .NET 系統
     - 整合 API、檔案上傳下載、簡訊與自動化工具
     - 負責弱掃、無障礙、壓力測試等修復與優化
-    - 撰寫系統文件與建置 Azure DevOps CI/CD 流程
 
 - company:
     name: 百阜科技股份有限公司 (Balvenie)
