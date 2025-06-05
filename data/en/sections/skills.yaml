@@ -22,19 +22,39 @@ buttons:
   filter: "others"
 
 skills:
-- name: .NET Framework / .NET Core
+- name: .NET Framework / .NET Core / msi tool / exe tool
   logo: /images/sections/skills/dotnet.png
   summary: "Experienced in ASP.NET MVC, Web API, and .NET Core architecture design and development. Skilled in building and maintaining mid-to-large scale systems."
   categories: [ "backend" ]
 
-- name: SQL Server / MySQL
-  logo: /images/sections/skills/sql.png
+- name: NuGet / NuGet Server / Baget
+  logo: /images/sections/skills/nuget.png
+  summary: "Developed and maintained shared component packages and project templates. Integrated team tools to enhance development productivity."
+  categories: [ "backend" ]
+
+- name: SQLite
+  logo: /images/sections/skills/MySQL.png
+  summary: "Designed for small personal development tools, providing quick access to configuration data."
+  categories: [ "database" ]
+
+- name: MySQL
+  logo: /images/sections/skills/MySQL.png
+  summary: "Database design and management experience with ORM and relational database design."
+  categories: [ "database" ]
+
+- name: SQL Server / MSSQL
+  logo: /images/sections/skills/MsSql.png
   summary: "Proficient in schema design, T-SQL optimization, indexing strategies, and report data processing workflows."
   categories: [ "database" ]
 
-- name: Vue / Angular
+- name: Angular
+  logo: /images/sections/skills/Angular.png
+  summary: "Skilled in RxJS, form handling, and component communication."
+  categories: [ "frontend" ]
+
+- name: Vue / Nuxt 3
   logo: /images/sections/skills/vue.png
-  summary: "Experienced in frontend architecture and component development for medium-scale projects. Skilled in RxJS, form handling, and component communication."
+  summary: "Experienced in frontend architecture and component development for medium-scale projects."
   categories: [ "frontend" ]
 
 - name: Docker
@@ -47,7 +67,17 @@ skills:
   summary: "Promoted Git Flow and CI/CD automation. Experienced in repository management, PR guidelines, and workflow integration."
   categories: [ "devops" ]
 
-- name: NuGet / Internal Tools
-  logo: /images/sections/skills/nuget.png
-  summary: "Developed and maintained shared component packages and project templates. Integrated team tools to enhance development productivity."
+- name: Typora
+  logo: /images/sections/skills/Typora.png
+  summary: "KM and Readme documentation writing standards promotion and implementation."
+  categories: [ "others" ]
+
+- name: Azure Board
+  logo: /images/sections/skills/Board.png
+  summary: "Borerder management and task tracking tool supporting agile development processes and team collaboration."
+  categories: [ "others" ]
+
+- name: Mermaid
+  logo: /images/sections/skills/Mermaid.png
+  summary: "Project architecture design and API flow documentation promotion, integrated with MD Readme files."
   categories: [ "others" ]

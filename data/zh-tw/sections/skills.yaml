@@ -22,19 +22,39 @@ buttons:
   filter: "others"
 
 skills:
-- name: .NET Framework / .NET Core
+- name: .NET Framework / .NET Core / msi tool/ exe tool
   logo: /images/sections/skills/dotnet.png
   summary: "熟悉 ASP.NET MVC、Web API、.NET Core 架構設計與開發，具備中大型系統建置與維運經驗。"
   categories: [ "backend" ]
 
-- name: SQL Server / MySQL
-  logo: /images/sections/skills/sql.png
+- name: NuGet / NuGet Server / Baget
+  logo: /images/sections/skills/nuget.png
+  summary: "開發並維護共用元件套件與專案範本，整合團隊工具以提升開發效率。"
+  categories: [ "backend" ]
+
+- name: SQLite
+  logo: /images/sections/skills/MySQL.png
+  summary: "小型自用開發工具儲存資料庫，快速存取設定規劃使用。"
+  categories: [ "database" ]
+
+- name: MySQL
+  logo: /images/sections/skills/MySQL.png
+  summary: "熟悉 ORM、資料庫關聯設計"
+  categories: [ "database" ]
+
+- name: SQL Server / MSSQL
+  logo: /images/sections/skills/MsSql.png
   summary: "熟悉 DB schema 設計、T-SQL 查詢優化、Index 設計與報表資料處理流程。"
   categories: [ "database" ]
 
-- name: Vue / Angular
+- name: Angular
+  logo: /images/sections/skills/Angular.png
+  summary: "熟悉 RxJS、表單處理、元件溝通。"
+  categories: [ "frontend" ]
+
+- name: Vue / Nuxt 3
   logo: /images/sections/skills/vue.png
-  summary: "具備中型專案的前端架構規劃與元件開發經驗，熟悉 RxJS、表單處理、元件溝通。"
+  summary: "具備新建專案底層規劃，與中型專案的前端架構規劃與元件開發經驗。"
   categories: [ "frontend" ]
 
 - name: Docker
@@ -47,7 +67,17 @@ skills:
   summary: "推動 Git Flow 與 CI/CD 自動化，熟悉 Repo 管理、Pull Request 規範與工作流程整合。"
   categories: [ "devops" ]
 
-- name: NuGet / Internal Tools
-  logo: /images/sections/skills/nuget.png
-  summary: "開發並維護共用元件套件與專案範本，整合團隊工具以提升開發效率。"
+- name: Typora
+  logo: /images/sections/skills/Typora.png
+  summary: "KM 推廣與說明文件撰寫規範推行"
+  categories: [ "others" ]
+
+- name: Azure Board
+  logo: /images/sections/skills/Board.png
+  summary: "開單制度推行與任務追蹤工具，支援敏捷開發流程與團隊協作。"
+  categories: [ "others" ]
+
+- name: Mermaid
+  logo: /images/sections/skills/Mermaid.png
+  summary: "專案架構設計、API 流程說明攜同 MD Readme 文件的推廣實行"
   categories: [ "others" ]
