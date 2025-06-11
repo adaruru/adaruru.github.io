@@ -14,6 +14,8 @@ buttons:
   filter: "all"
 - name: Tool
   filter: "tool"
+- name: Template
+  filter: "template"
 
 # your projects
 projects:
@@ -24,3 +26,11 @@ projects:
   repo: https://github.com/adaruru/DevTool
   summary: Portable dev tools suite DB export, encryption, IIS setup — boost daily productivity.
   tags: [ "tool" ]
+
+- name: DockerStack
+  logo: /images/sections/skills/docker.svg
+  role: Author
+  timeline: "May 2025 - Present"
+  repo: https://github.com/adaruru/DockerStack
+  summary: A curated collection of tested Dockerfiles and Docker Compose templates for streamlined development, testing, and deployment.
+  tags: [ "template" ]
