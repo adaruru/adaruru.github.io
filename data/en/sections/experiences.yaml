@@ -27,6 +27,7 @@ experiences:
     - Migrated legacy .NET Framework projects to .NET 6
     - Implemented Dockerized Infra and built agent servers
     - Built Nuxt-based frontend infra and team KM policies
+    - Managed small teams of 2-3 members
 
 - company:
     name: SYSTEX Corporation (On-site via Frog-Jump.COM)
@@ -62,13 +63,12 @@ experiences:
     name: Balvenie Technology Inc.
     location: Taipei, Taiwan
     logo: /images/sections/experiences/balvenie.png
-    overview: Local tech SME supporting internal operations.
   positions:
-  - designation: Administrative Assistant
+  - designation: HR Visa Specialist
     start: Nov 2018
     end: Apr 2019
     responsibilities:
-    - Assisted with HR and general admin operations
+    - Assisted with recruitment and TEEP(kind of visa) for foreign employees
     - Managed payroll and office inventory
 
 - company:
@@ -84,3 +84,4 @@ experiences:
     - Handled MOEAIC and foreign investment applications
     - Managed offshore entity registration and maintenance
     - Coordinated foreigner work permits and residency applications
+    - Led a team of 3-5 members, delegating tasks and training new hires

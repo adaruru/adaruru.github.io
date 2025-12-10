@@ -13,7 +13,7 @@ contactInfo:
 
 # some summary about what you do
 summary:
-- I am a Fullstack Developer
-- I am a Devops
-- I love servers
-- I love to work with some fun projects
+- 我是全端工程師
+- 推動團隊技術升級與架構優化
+- 建立 CI/CD 與容器化基礎設施
+- 熱衷於 Go 後端開發與 DevOps

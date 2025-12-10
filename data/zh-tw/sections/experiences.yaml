@@ -24,6 +24,7 @@ experiences:
     - 協助 .NET Framework 專案遷移至 .NET 6、.NET 8
     - 建置 Docker Infra 與 Agent Server
     - 建立 Nuxt 前端架構與團隊 KM 制度
+    - 管理 3-2 人以下小組，開發任務進度推進
 
 - company:
     name: 精誠資訊股份有限公司（由德義資訊股份有限公司派駐）
@@ -58,25 +59,24 @@ experiences:
     name: 百阜科技股份有限公司 (Balvenie)
     location: 台北，台灣
     logo: /images/sections/experiences/balvenie.png
-    overview: 協助內部營運的人力支援與行政系統。
   positions:
-  - designation: 行政助理
+  - designation: 人資簽證專員
     start: 2018年11月
     end: 2019年4月
     responsibilities:
-    - 協助人事與日常行政作業
+    - 協助招募業務與外籍同仁簽證事宜
     - 協助薪資與辦公室資產管理
-
 - company:
     name: 勤業眾信聯合會計師事務所 (Deloitte & Touche)
     location: 台北，台灣
     logo: /images/sections/experiences/deloitte.png
     overview: 國際知名審計與顧問服務公司。
   positions:
-  - designation: 稅務部資深助理
+  - designation: 稅務部副組長
     start: 2015年11月
     end: 2018年5月
     responsibilities:
     - 負責投審會、對外投資等政府申請案件
     - 處理境外公司設立與變更業務
     - 協辦外籍人士工作證與居留證申請
+    - 管理 3-5 人小組，分配工作與訓練新進人員

@@ -27,10 +27,26 @@ projects:
   summary: Portable dev tools suite DB export, encryption, IIS setup — boost daily productivity.
   tags: [ "tool" ]
 
+- name: certcenter
+  logo: /images/sections/projects/certcenter.png
+  role: Author
+  timeline: "Sep 2025 - Present"
+  repo: https://github.com/adaruru/certcenter
+  summary: A centralized ACME DNS-01 automation service that uses acme.sh and acme-dns to proxy TXT challenges, batch issue and renew wildcard certificates, and expose certificate health status via an API.
+  tags: [ "tool" ]
+
 - name: DockerStack
   logo: /images/sections/skills/docker.svg
   role: Author
   timeline: "May 2025 - Present"
   repo: https://github.com/adaruru/DockerStack
   summary: A curated collection of tested Dockerfiles and Docker Compose templates for streamlined development, testing, and deployment.
+  tags: [ "template" ]
+
+- name: RedisLab
+  logo: /images/sections/projects/RedisLab.png
+  role: Author
+  timeline: "June 2025"
+  repo: https://github.com/adaruru/RedisLab
+  summary: Using .NET 9 and Docker Compose, this project demonstrates Redis Master–Replica, Sentinel, Cluster, and RedisRaft architectures, covering read–write splitting and automatic failover, while leveraging StackExchange.Redis to showcase the key differences and practical use cases of each deployment model.
   tags: [ "template" ]

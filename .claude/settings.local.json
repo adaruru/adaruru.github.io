@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfix: remove markdown files from data directory to resolve Hugo build error\n\nHugo''s data directory is intended for structured data files (JSON, YAML, \nTOML, XML) only. Markdown files were incorrectly placed in data/source/ \ncausing unmarshal errors during the Cloudflare Pages build.\n\nRemoved files:\n- data/source/Intro.md\n- data/source/resume20250611EN.md\n- data/source/resume20250611Zh.md\n- data/source/rough/presentations/getting-started.md\n- data/source/rough/presentations/index.md\n- data/source/rough/presentations/index.zh-tw.md\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push)"
+    ]
+  }
+}

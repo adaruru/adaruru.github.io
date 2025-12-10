@@ -7,12 +7,14 @@ menu:
     name: Introduction
     identifier: introduction
     weight: 10
-tags: ["Basic", "Multi-lingual"]
+tags: ["Basic"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+This is where I document my work experiences and technical reflections, with a focus on software development, system architecture, DevOps, and real-world problem solving.
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+Every article comes from issues encountered in actual projects: the pitfalls I ran into and the solutions I found. I hope this helps my future self review things more efficiently, and also saves you some detours if you are facing similar problems.
+
+All articles are currently written in Chinese. If you are viewing this site in a multilingual interface, please switch the site language to “Chinese” to see the full list of posts and category index.
+
+I will continue to update this site with new technical notes, implementation examples, and personal insights.

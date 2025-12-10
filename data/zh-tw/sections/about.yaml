@@ -15,7 +15,7 @@ company:
   url: "https://www.itsower.com.tw"
 
 # a summary about you
-summary: "樂觀、擅長協作的全端工程師，熟悉 .NET、SQL、Vue 及 DevOps 工作流程。<br/>由政府顧問轉職至軟體開發，透過 LeetCode 與線上資源自學程式。<br/>具備團隊知識分享、內部工具開發與技術文件文化建立經驗。<br/>主導 Git Flow、CI/CD、.NET 6 遷移、Docker 架構與 Nuxt 前端基礎建設。<br/>參與中信、華銀、新光等大型金融客戶之高效能、安全性系統開發。<br/>熟悉銀行業務流程與企業級系統開發生命週期。"
+summary: "樂觀、擅長協作的全端工程師，熟悉 .NET、SQL、Vue 及 DevOps 工作流程。<br/>由簽證/人資轉職至軟體開發，透過線上資源自學程式。<br/>具備團隊知識分享、內部工具開發與技術文件文化建立經驗。<br/>主導 Git Flow、CI/CD、.NET 6/8 遷移、Docker 架構與 Nuxt 前端基礎建設。<br/>參與中信、華銀、新光等大型金融客戶之高效能、安全性系統開發。<br/>熟悉銀行業務流程與企業級系統開發生命週期。<br/>發展了公司自有產品從零開始的設計與開發，並建立自動化流程規範"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -43,19 +43,24 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Leadership
+  name: 領導力
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: 團隊合作
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: 問題解決
+  percentage: 90
   color: orange
+
+- type: soft-skill-indicator
+  name: 自主學習
+  percentage: 95
+  color: green
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

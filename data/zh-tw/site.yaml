@@ -9,15 +9,15 @@ However, the theme author does not provide any warranty or takes any liability f
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal blog of Amanda Chou.
 
-# specify the list of custom menus that you want to show in the top navbar.
-# they will be separated by a divider from the main menus.
 customMenus:
-- name: Docs
-  url: https://toha-guides.netlify.app/posts/
-  # specify whether to hide the menu item from top navbar or not.
+- name: Github
+  url: https://github.com/adaruru
   hideFromNavbar: false
-  # specify whether to show the menu item in footer or not.
-  # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+  showOnFooter: false
+
+- name: 領英
+  url: https://www.linkedin.com/in/amanda-c-3405a1184/
+  hideFromNavbar: false
   showOnFooter: false
 
 # Specify OpenGraph Headers

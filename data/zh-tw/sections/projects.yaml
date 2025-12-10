@@ -27,10 +27,26 @@ projects:
   summary: 開發者專用便攜工具組，整合資料庫匯出、加解密與 IIS 設定，快速提升日常效率。
   tags: [ "工具" ]
 
+- name: certcenter
+  logo: /images/sections/projects/certcenter.png
+  role: Author
+  timeline: "Sep 2025 - Present"
+  repo: https://github.com/adaruru/certcenter
+  summary: 集中式 ACME DNS-01 自動化服務，透過 acme.sh + acme-dns 代理 TXT Challenge，批次簽發/續簽 wildcard 憑證並提供 API 查詢健康狀態。
+  tags: [ "工具" ]
+
 - name: DockerStack
   logo: /images/sections/skills/docker.svg
   role: Author
   timeline: "May 2025 - Present"
   repo: https://github.com/adaruru/DockerStack
   summary: 整理測試過的 Dockerfile 與 Docker Compose ，方便開發、測試與部署使用。
+  tags: [ "範本" ]
+
+- name: RedisLab
+  logo: /images/sections/projects/RedisLab.png
+  role: Author
+  timeline: "June 2025"
+  repo: https://github.com/adaruru/RedisLab
+  summary: 以 .NET 9 與 Docker Compose 示範 Redis 的主從、哨兵、叢集與 RedisRaft 架構,涵蓋讀寫分離與自動故障轉移,並透過 StackExchange.Redis 展示各模式的核心差異與使用情境。
   tags: [ "範本" ]

@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Optimistic and collaborative full-stack engineer skilled in .NET, SQL, Vue, and DevOps workflows.<br/>Transitioned from government consulting to softwarevia self-learning (LeetCode, online resources).<br/>experienced in team knowledge sharing, internal tooling, and documentation culture building.<br/>Led Git Flow adoption, CI/CD pipelines, .NET 6 migration, Docker infrastructure, and Nuxt frontend infra.<br/>Delivered secure, high-throughput systems for major financial clients (e.g. CTBC, HuaNan, Shin Kong).<br/>Strong domain knowledge in banking processes and enterprise development lifecycle.'
+summary: 'Optimistic and collaborative full-stack engineer skilled in .NET, SQL, Vue, and DevOps workflows.<br/>Transitioned from visa and HR to softwarevia self-learning online resources.<br/>experienced in team knowledge sharing, internal tooling.<br/>Led Git Flow adoption, CI/CD pipelines, .NET 6/8 migration, Docker infrastructure, and Nuxt frontend infra.<br/>Contributed to high-performance, security-critical systems for major financial institutions (e.g., CTBC, Hua Nan, Shin Kong).<br/>Strong domain knowledge in banking processes and enterprise development lifecycle.<br/>Helped design and develop in-house products from the ground up'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -57,9 +57,14 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Problem Solving
+  percentage: 90
   color: orange
+
+- type: soft-skill-indicator
+  name: Self-Learning
+  percentage: 95
+  color: green
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
