@@ -11,20 +11,20 @@ tags:
 - design-pattern
 - jwt
 ---
+# LineCRM.CarCare 登入價購說明
 
-# Multi-Tenant JWT Authentication 
+## Multi-Tenant JWT Authentication 
 
 多租戶（Multi-Tenant）JWT 雙 Token 認證機制（Access Token + Refresh Token），支援商店用戶（Store）與客戶用戶（Customer）兩種身份類型的獨立認證流程。透過泛型設計與介面抽象，實現了可擴展的多角色登入系統，並結合 Redis 快取機制管理 Refresh Token，提供安全且高效的身份驗證解決方案。
 
-## Key Features
+### Key Features
 
-- ✅ 雙 Token 機制：Access Token (短效) + Refresh Token (長效)
-- ✅ 多角色支援：Store User 與 Customer User 獨立認證
-- ✅ 自動 Token 更新：Middleware 自動偵測過期並刷新
-- ✅ 分散式快取：Redis 管理 Refresh Token 狀態
-- ✅ 安全性強化：HttpOnly Cookie + CSRF 防護
-- ✅ 可擴展架構：新增用戶類型僅需實作兩個介面
-
+- 雙 Token 機制：Access Token (短效) + Refresh Token (長效)
+- 多角色支援：Store User 與 Customer User 獨立認證
+- 自動 Token 更新：Middleware 自動偵測過期並刷新
+- 分散式快取：Redis 管理 Refresh Token 狀態
+- 安全性強化：HttpOnly Cookie + CSRF 防護
+- 可擴展架構：新增用戶類型僅需實作兩個介面
 
 ## 1. Adapter Pattern (適配器模式)
 
