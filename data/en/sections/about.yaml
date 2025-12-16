@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Optimistic and collaborative full-stack engineer skilled in .NET, SQL, Vue, and DevOps workflows.<br/>Transitioned from visa and HR to softwarevia self-learning online resources.<br/>experienced in team knowledge sharing, internal tooling.<br/>Led Git Flow adoption, CI/CD pipelines, .NET 6/8 migration, Docker infrastructure, and Nuxt frontend infra.<br/>Contributed to high-performance, security-critical systems for major financial institutions (e.g., CTBC, Hua Nan, Shin Kong).<br/>Strong domain knowledge in banking processes and enterprise development lifecycle.<br/>Helped design and develop in-house products from the ground up'
+summary: "Full-stack engineer proficient in .NET, SQL, Vue, and DevOps workflows.<br/>Self-taught career transitioner from Visa/HR to software development.<br/>Experienced in team knowledge sharing, internal tooling, and establishing technical documentation culture.<br/>Led initiatives in Git Flow, CI/CD, .NET 6/8 migration, Docker/CI/CD architecture, and Nuxt frontend infrastructure.<br/>Participated in high-performance, secure system development for major financial clients including CTBC, HNCB, and Shin Kong Bank.<br/>Familiar with banking operations and enterprise-level system development lifecycle.<br/>Developed company's proprietary product from scratch and established automated process standards"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

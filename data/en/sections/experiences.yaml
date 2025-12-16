@@ -20,13 +20,14 @@ experiences:
   - designation: Software Engineer
     start: Sep 2021
     responsibilities:
-    - Developed fullstack banking systems, ChinaTrust, HuaNan, Shin Kong
-    - Maintained and enhanced internal systems, Agricultural Finance, Fubon, etc.
+    - Developed fullstack banking systems, CTBC, HNCB, SKBANK
+    - Maintained and enhanced internal systems, Agricultural Bank, Fubon, etc.
     - Designed and maintained internal NuGet libraries and templates
     - Led GitFlow and CI/CD automation with Azure DevOps
-    - Migrated legacy .NET Framework projects to .NET 6
-    - Implemented Dockerized Infra and built agent servers
-    - Built Nuxt-based frontend infra and team KM policies
+    - Migrated legacy .NET Framework projects to .NET 6/8
+    - Implemented Dockerized Infra and Azure Pipeline Infra Setup
+    - Led in-house product frontend Nuxt infrastructure setup
+    - Promoted KM system and Azure Board ticketing system
     - Managed small teams of 2-3 members
 
 - company:

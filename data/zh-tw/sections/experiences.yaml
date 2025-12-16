@@ -22,8 +22,9 @@ experiences:
     - 設計並維護 NuGet 共用函式庫與專案範本
     - 推動 Git Flow 與 Azure DevOps 自動化流程
     - 協助 .NET Framework 專案遷移至 .NET 6、.NET 8
-    - 建置 Docker Infra 與 Agent Server
-    - 建立 Nuxt 前端架構與團隊 KM 制度
+    - Docker 容器化與 Azure Pipeline Infra 架構建置
+    - 主導自家產品前端 Nuxt 基礎架構建置
+    - KM 制度與工單制度推動
     - 管理 3-2 人以下小組，開發任務進度推進
 
 - company:
