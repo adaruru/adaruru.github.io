@@ -22,6 +22,11 @@ buttons:
   filter: "others"
 
 skills:
+- name: Go / GIN
+  logo: /images/sections/skills/go.png
+  summary: "CertCenter: Built GO API for Acme certificate automation service, RedisLab: validated GO API Redis caching strategy."
+  categories: [ "backend" ]
+
 - name: .NET Framework / .NET Core / msi tool / exe tool
   logo: /images/sections/skills/dotnet.png
   summary: "Experienced in ASP.NET MVC, Web API, and .NET Core architecture design and development. Skilled in building and maintaining mid-to-large scale systems."

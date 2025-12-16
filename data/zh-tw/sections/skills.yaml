@@ -22,6 +22,11 @@ buttons:
   filter: "others"
 
 skills:
+- name: Go / GIN
+  logo: /images/sections/skills/go.png
+  summary: "CertCenter:GO Api 建置 Acme 憑證自動化服務、RedisLab: 驗證 GO Api 快取策略"
+  categories: [ "backend" ]
+
 - name: .NET Framework / .NET Core / msi tool/ exe tool
   logo: /images/sections/skills/dotnet.png
   summary: "熟悉 ASP.NET MVC、Web API、.NET Core 架構設計與開發，具備中大型系統建置與維運經驗。"
