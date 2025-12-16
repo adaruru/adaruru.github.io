@@ -38,9 +38,10 @@ socialLinks:
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
-resourceLinks:
-- title: "My Resume"
-  url: "files/resume20250611EN.pdf"
+# 預計不顯示，兩邊維護太累了
+# resourceLinks:
+# - title: "My Resume"
+#   url: "files/resume20250611EN.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
