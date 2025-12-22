@@ -13,6 +13,18 @@ tags:
 ---
 
 # Infra Diagram Tool
+## Drawio
+
+- 系統架構圖
+- Infrastructure Diagram
+- 高可用設計
+- 安全 / Network / Trust Boundary
+- 跨團隊、跨角色溝通
+- ✅服務 icon 支援多元
+- ❌可版控但 diff 不易閱讀 (xml)
+- ❌無法整合 README.md (只能匯出 png/svg)
+
+   ![ingress](/posts/devops/attach/InfraDiagram/ingress.png)
 
 ## Mermaid
 
@@ -102,16 +114,3 @@ graph LR
     class containerEng,containerEng201 containerEngStyle
     class Server100,Server200 serverStyle
 {{< /mermaid >}}
-
-## Drawio
-
-- 系統架構圖
-- Infrastructure Diagram
-- 高可用設計
-- 安全 / Network / Trust Boundary
-- 跨團隊、跨角色溝通
-- ✅服務 icon 支援多元
-- ❌可版控但 diff 不易閱讀 (xml)
-- ❌無法整合 README.md (只能匯出 png/svg)
-
-   ![ingress](/posts/devops/attach/InfraDiagram/ingress.png)
