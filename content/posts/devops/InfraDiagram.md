@@ -24,7 +24,7 @@ tags:
 - ❌不支援服務 icon 顯示
 - ❌無法精準位置控制
 
-```mermaid
+{{< mermaid >}}
 %%{init: {
   "theme": "base",
   "themeVariables": {
@@ -101,7 +101,7 @@ graph LR
     class dockerSwarm,dockerSwarm201 dockerSwarmStyle
     class containerEng,containerEng201 containerEngStyle
     class Server100,Server200 serverStyle
-```
+{{< /mermaid >}}
 
 ## Drawio
 
