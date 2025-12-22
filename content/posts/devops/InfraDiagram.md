@@ -114,4 +114,4 @@ graph LR
 - ❌可版控但 diff 不易閱讀 (xml)
 - ❌無法整合 README.md (只能匯出 png/svg)
 
-![ingress](InfraDiagram/ingress.png)
+![ingress](attach/infradiagram/ingress.png)
