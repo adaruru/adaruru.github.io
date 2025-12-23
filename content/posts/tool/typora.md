@@ -72,7 +72,7 @@ ___
 
 我可以文件內搜尋，這沒什麼了不起，word 也行
 
-![image-20250217124735953](posts/tool/attach/typora/image-20250217124735953-17465930807531.png)
+![image-20250217124735953](/posts/tool/attach/typora/image-20250217124735953-17465930807531.png)
 
 
 
@@ -80,7 +80,7 @@ ___
 
 版控的優勢，在於可以資料夾搜尋
 
-![image-20250217124833424](posts/tool/attach/typora/image-20250217124833424-17465930807532.png)
+![image-20250217124833424](/posts/tool/attach/typora/image-20250217124833424-17465930807532.png)
 
 ---
 
@@ -109,18 +109,18 @@ ___
 
 
 
-![image-20250217125911585](posts/tool/attach/typora/image-20250217125911585-17465930807533.png)
+![image-20250217125911585](/posts/tool/attach/typora/image-20250217125911585-17465930807533.png)
 
 ---
 
 - 也可以調整我的資料夾位置，擴大搜尋條件
 - 其實只要內容可以版控，即使不用 typora, vs code 的搜尋功能其實也很好用
 
-![image-20250217124914340](posts/tool/attach/typora/image-20250217124914340-17465930807534.png)
+![image-20250217124914340](/posts/tool/attach/typora/image-20250217124914340-17465930807534.png)
 
 ## Markdown 語法
 
-<img src="posts/tool/attach/typora/markdownsyntex.png" alt="image-20250217095933173" style="zoom:67%;" />
+<img src="/posts/tool/attach/typora/markdownsyntex.png" alt="image-20250217095933173" style="zoom:67%;" />
 
 ## Markdown 效果展示
 
@@ -130,7 +130,7 @@ ___
 
 效果展示
 
-<img src="posts/tool/attach/typora/markdowneffect.jpg" alt="img" style="zoom:50%;" />
+<img src="/posts/tool/attach/typora/markdowneffect.jpg" alt="img" style="zoom:50%;" />
 
 
 ## 可是我不想學這些
@@ -149,7 +149,7 @@ ___
 且工具上面都有顯示快捷鍵是什麼，用起來的感覺就跟 word 很像
 ```
 
-![image-20250207095217939](posts/tool/attach/typora/image-20250207095217939-173976474289760-1739764830938122-17465930807537.png)
+![image-20250207095217939](/posts/tool/attach/typora/image-20250207095217939-173976474289760-1739764830938122-17465930807537.png)
 
 
 
@@ -165,13 +165,13 @@ ___
 
 可以隨時顯示原始 Markdown, 做中學
 
-![image-20250207101247773](posts/tool/attach/typora/image-20250207101247773-173976474289761-1739764830938125-17465930807538.png)
+![image-20250207101247773](/posts/tool/attach/typora/image-20250207101247773-173976474289761-1739764830938125-17465930807538.png)
 
 ## 級數標題 是連結 也是目錄
 
 `[[_TOC_]]` 就會把所有級數標題集成目錄，可以點選
 
-![image-20250217104357476](posts/tool/attach/typora/image-20250217104357476-173976474289762-1739764830938124-17465930807539.png)
+![image-20250217104357476](/posts/tool/attach/typora/image-20250217104357476-173976474289762-1739764830938124-17465930807539.png)
 
 
 
@@ -179,13 +179,13 @@ ___
 
 不使用 toc , typora IDE 的大綱也可以點選目錄，有常在使用 word 的導覽功能，應該就很理解，一邊目錄導覽一邊查看或編輯內容的方便性
 
-![image-20250217104610205](posts/tool/attach/typora/image-20250217104610205-173976474289763-1739764830938126-174659308075411.png)
+![image-20250217104610205](/posts/tool/attach/typora/image-20250217104610205-173976474289763-1739764830938126-174659308075411.png)
 
 
 
 azure 的 wiki 其實就是一個 git  repostary, clone 下來用法與 git 都一樣 
 
-![image-20250217104944444](posts/tool/attach/typora/image-20250217104944444-173976474289764-1739764830938127-174659308075410.png)
+![image-20250217104944444](/posts/tool/attach/typora/image-20250217104944444-173976474289764-1739764830938127-174659308075410.png)
 
 
 
@@ -193,13 +193,13 @@ azure 的 wiki 其實就是一個 git  repostary, clone 下來用法與 git 都�
 
 azure 的 wiki 只要是級數標題，就都是連結，都可以點選、可以複製分享(直接導到內容)
 
-![image-20250217104822610](posts/tool/attach/typora/image-20250217104822610-173976474289765-1739764830938128-174659308075413.png)
+![image-20250217104822610](/posts/tool/attach/typora/image-20250217104822610-173976474289765-1739764830938128-174659308075413.png)
 
 ---
 
 azure 專案 readme 也可以像 wiki 一樣查看，大多開源專案的說明文件，就是放在根目錄的 readme, gitbub 上有很多
 
-![image-20250217105207593](posts/tool/attach/typora/image-20250217105207593-173976474289766-1739764830938130-174659308075412.png)
+![image-20250217105207593](/posts/tool/attach/typora/image-20250217105207593-173976474289766-1739764830938130-174659308075412.png)
 
 
 
@@ -219,25 +219,25 @@ azure 專案 readme 也可以像 wiki 一樣查看，大多開源專案的說明
 
 當我滑鼠上滑，就可以看到註腳說明以 tooltip 效果展示
 
-![image-20250307113321033](posts/tool/attach/typora/image-20250307113321033-174659308075416.png)
+![image-20250307113321033](/posts/tool/attach/typora/image-20250307113321033-174659308075416.png)
 
 
 
 ## Checkbox 使用
 
-![image-20250307114445166](posts/tool/attach/typora/image-20250307114445166-174659308075414.png)
+![image-20250307114445166](/posts/tool/attach/typora/image-20250307114445166-174659308075414.png)
 
 ---
 
 也可以選取一段文字，讓其全部都變成 check box
 
-![image-20250307114554264](posts/tool/attach/typora/image-20250307114554264-174659308075415.png)
+![image-20250307114554264](/posts/tool/attach/typora/image-20250307114554264-174659308075415.png)
 
 ---
 
 直接點可以互動打勾，打勾的樣子
 
-![image-20250307114614199](posts/tool/attach/typora/image-20250307114614199-174659308075417.png)
+![image-20250307114614199](/posts/tool/attach/typora/image-20250307114614199-174659308075417.png)
 
 
 
@@ -253,31 +253,31 @@ https://hackmd.io/zh/product?utm_source=blog&utm_medium=nav-bar
 
 [hackmd](https://hackmd.io/zh/product?utm_source=blog&utm_medium=nav-bar)
 
-![image-20250307114326637](posts/tool/attach/typora/image-20250307114326637-174659308075418.png)
+![image-20250307114326637](/posts/tool/attach/typora/image-20250307114326637-174659308075418.png)
 
 ---
 
 離開編輯畫面，就會是簡短的樣子
 
-![image-20250307114406234](posts/tool/attach/typora/image-20250307114406234-174659308075419.png)
+![image-20250307114406234](/posts/tool/attach/typora/image-20250307114406234-174659308075419.png)
 
 ## table 使用
 
 Ctrl + t : 新增 table
 
-![image-20250217112706201](posts/tool/attach/typora/image-20250217112706201-173976474289767-1739764830938129-174659308075420.png)
+![image-20250217112706201](/posts/tool/attach/typora/image-20250217112706201-173976474289767-1739764830938129-174659308075420.png)
 
 ---
 
 所有網頁的 tr、th、td 都可以簡單ctrl c, ctrl v 的 md 文件
 
-![image-20250217113003581](posts/tool/attach/typora/image-20250217113003581-173976474289768-1739764830939133-174659308075421.png)
+![image-20250217113003581](/posts/tool/attach/typora/image-20250217113003581-173976474289768-1739764830939133-174659308075421.png)
 
 ---
 
 所有列、攔都可以拖曳變更位置
 
-![image-20250217113254704](posts/tool/attach/typora/image-20250217113254704-173976474289769-1739764830939132-174659308075422.png)
+![image-20250217113254704](/posts/tool/attach/typora/image-20250217113254704-173976474289769-1739764830939132-174659308075422.png)
 
 
 
@@ -285,7 +285,7 @@ Ctrl + t : 新增 table
 
 也有很多快捷鍵可以使用
 
-![image-20250217113340709](posts/tool/attach/typora/image-20250217113340709-173976474289770-1739764830939131-174659308075423.png)
+![image-20250217113340709](/posts/tool/attach/typora/image-20250217113340709-173976474289770-1739764830939131-174659308075423.png)
 
 ## FileName Naming 注意
 
@@ -295,7 +295,7 @@ Ctrl + t : 新增 table
 
   因為 **URL/URI 有「保留字元 (reserved characters)」與「不安全字元 (unsafe characters)」**，當檔名包含這些符號時，系統或瀏覽器在組合路徑時 **必須進行百分比編碼 (Percent-encoding)**。編碼後的路徑與實際檔名不一致，就造成圖片無法正確讀取。
 
-- 檔名避免使用特殊符號 `#`, `?`, `&`, etc.) 會倒置路徑變成  .posts/tool/attach/typora/.C%23 使圖片顯示路徑錯誤，比如 `.C#` will be encoded as `.C%23`, which may cause the photo to fail to load.
+- 檔名避免使用特殊符號 `#`, `?`, `&`, etc.) 會倒置路徑變成  ./posts/tool/attach/typora/.C%23 使圖片顯示路徑錯誤，比如 `.C#` will be encoded as `.C%23`, which may cause the photo to fail to load.
 
   1. 保留字元（一定會被編碼）
 
@@ -360,23 +360,23 @@ Ctrl + t : 新增 table
 
 ### 圖片使用-相對位置處理圖片
 
-Typora 相對位置處理圖片，路徑使用 ./.posts/tool/attach/typora/.${filename}
+Typora 相對位置處理圖片，路徑使用 ././posts/tool/attach/typora/.${filename}
 
-![image-20241114150224347](posts/tool/attach/typora/image-20241114150224347-173889219812626-173976474289771-1739764830939134-174659308075424.png)
-
----
-
-![image-20241114150917531](posts/tool/attach/typora/image-20241114150917531-173889219812631-173976474289772-1739764830939135-174659308075425.png)
-
-
+![image-20241114150224347](/posts/tool/attach/typora/image-20241114150224347-173889219812626-173976474289771-1739764830939134-174659308075424.png)
 
 ---
 
-- 在這樣的配置之下，每一個檔案都會在複製上圖片的時候，新增一個資料夾，在相對路徑的地方新增與檔案同名的 (.posts/tool/attach/typora/.TyporaSlide) 資料夾
+![image-20241114150917531](/posts/tool/attach/typora/image-20241114150917531-173889219812631-173976474289772-1739764830939135-174659308075425.png)
+
+
+
+---
+
+- 在這樣的配置之下，每一個檔案都會在複製上圖片的時候，新增一個資料夾，在相對路徑的地方新增與檔案同名的 (./posts/tool/attach/typora/.TyporaSlide) 資料夾
 - 路徑像這樣
 
 ```
-![image-20241114150917531](.posts/tool/attach/typora/.TyporaSlide/image-20241114150917531-173889219812631-173889542464476.png)
+![image-20241114150917531](./posts/tool/attach/typora/.TyporaSlide/image-20241114150917531-173889219812631-173889542464476.png)
 ```
 
 ---
@@ -385,13 +385,13 @@ Typora 相對位置處理圖片，路徑使用 ./.posts/tool/attach/typora/.${fi
 - 就可以整個檔案與上傳的圖片一併移動
 - 檔名=資料夾名，就很好維護、也很好找
 
-![image-20250207103339022](posts/tool/attach/typora/image-20250207103339022-173976474289873-1739764830939136-174659308075426.png)
+![image-20250207103339022](/posts/tool/attach/typora/image-20250207103339022-173976474289873-1739764830939136-174659308075426.png)
 
 ---
 
 - 變成路徑，檔名就要小心
 
-- 檔名避免使用特殊符號 `#`, `?`, `&`, etc.) 會倒置路徑變成  .posts/tool/attach/typora/.C%23 使圖片顯示路徑錯誤
+- 檔名避免使用特殊符號 `#`, `?`, `&`, etc.) 會倒置路徑變成  ./posts/tool/attach/typora/.C%23 使圖片顯示路徑錯誤
 
 - 比如:
 
@@ -399,16 +399,16 @@ Typora 相對位置處理圖片，路徑使用 ./.posts/tool/attach/typora/.${fi
 
 #### 為什麼資料夾要.開頭
 
-./.posts/tool/attach/typora/.${filename}
+././posts/tool/attach/typora/.${filename}
 
 * 避免在檔案總管或其他工具中混亂
-  一般情況下，像 `.git/`、`.posts/tool/attach/typora/` 等以「`.`」開頭的資料夾會被視為系統或隱藏資料夾，從而減少開發者在檔案樹狀結構中誤操作或誤刪除。
+  一般情況下，像 `.git/`、`./posts/tool/attach/typora/` 等以「`.`」開頭的資料夾會被視為系統或隱藏資料夾，從而減少開發者在檔案樹狀結構中誤操作或誤刪除。
 * 和普通目錄區分
   用 `./.something` 的形式，可讓我們很快辨認「這是特定工具（Typora、Git 等）自動生成或使用的特殊目錄」。
 
 ---
 
- ./.posts/tool/attach/typora/.${filename}
+ ././posts/tool/attach/typora/.${filename}
  如果沒有加.
  那 typora 在打開左側欄查看檔案的時候 就會跑出 attach 跟 .${filename} 
  使用上會覺得介面比較混亂
@@ -417,7 +417,7 @@ Typora 相對位置處理圖片，路徑使用 ./.posts/tool/attach/typora/.${fi
 
 #### 比較混亂是有多混亂，示範一下
 
-![image-20250307121718603](posts/tool/attach/typora/image-20250307121718603-174659308075427.png)
+![image-20250307121718603](/posts/tool/attach/typora/image-20250307121718603-174659308075427.png)
 
 ### 圖片使用-縮小
 
@@ -425,9 +425,9 @@ Typora 相對位置處理圖片，路徑使用 ./.posts/tool/attach/typora/.${fi
 
 ```html
 # 加入屬性 width
-<img src=".posts/tool/attach/typora/.XXX/image-20251015141308550.png" width="100">
+<img src="./posts/tool/attach/typora/.XXX/image-20251015141308550.png" width="100">
 # 圖片右鍵 Zoom image 選擇縮小比例
-<img src="posts/tool/attach/typora/aligndemo.png" alt="image-20250605103033878" style="zoom:33%;" />
+<img src="/posts/tool/attach/typora/aligndemo.png" alt="image-20250605103033878" style="zoom:33%;" />
 ```
 
 ### 圖片使用-圖片靠左/靠右
@@ -438,17 +438,17 @@ Typora 相對位置處理圖片，路徑使用 ./.posts/tool/attach/typora/.${fi
 
 右邊加一個空格，有靠左效果 `<img src=""/>{加一個空格} `
 
-<img src="posts/tool/attach/typora/aligndemo.png" alt="image-20250605103033878" style="zoom:33%;" /> 
+<img src="/posts/tool/attach/typora/aligndemo.png" alt="image-20250605103033878" style="zoom:33%;" /> 
 
 左邊加很多縮排，有靠右效果 `{加  很  多  空  白}<img src=""/> `
 
-​                                                                                      <img src="posts/tool/attach/typora/aligndemo.png" alt="image-20250605103033878" style="zoom:33%;" />
+​                                                                                      <img src="/posts/tool/attach/typora/aligndemo.png" alt="image-20250605103033878" style="zoom:33%;" />
 
 ## Code Fence 使用
 
 Ctrl Shift K
 
-![image-20250217121619775](posts/tool/attach/typora/image-20250217121619775-174659308075428.png)
+![image-20250217121619775](/posts/tool/attach/typora/image-20250217121619775-174659308075428.png)
 
 ---
 
@@ -456,7 +456,7 @@ Code Fence highlight 過的 code 更好閱讀
 
 
 
-![image-20250217122516889](posts/tool/attach/typora/image-20250217122516889-174659308075429.png)
+![image-20250217122516889](/posts/tool/attach/typora/image-20250217122516889-174659308075429.png)
 
 
 
@@ -464,7 +464,7 @@ Code Fence highlight 過的 code 更好閱讀
 
 
 
-![image-20250217122520818](posts/tool/attach/typora/image-20250217122520818-174659308075430.png)
+![image-20250217122520818](/posts/tool/attach/typora/image-20250217122520818-174659308075430.png)
 
 
 
@@ -519,7 +519,7 @@ Code Fence highlight 過的 code 更好閱讀
 - 即便 git commit 沒有寫清楚是什麼時候的文件，對流程有印象的人看 git diff 也可以大概找到想找的歷史版本
 - 看 git diff 相比 drawio 或是 Visio 一個流程、一個流程打開來檢查的時間，應該是快得多
 
-![image-20250217111619175](posts/tool/attach/typora/image-20250217111619175-173976474289874-1739764830939137-174659308075431.png)
+![image-20250217111619175](/posts/tool/attach/typora/image-20250217111619175-173976474289874-1739764830939137-174659308075431.png)
 
 ## mermaid
 
@@ -573,13 +573,13 @@ html <body> add
 且不能用太新得功能
 ```
 
-![image-20250217133947947](posts/tool/attach/typora/image-20250217133947947-174659308075432.png)
+![image-20250217133947947](/posts/tool/attach/typora/image-20250217133947947-174659308075432.png)
 
 ---
 
 不能用太新得功能，因為目前最新的更新顯示[Wiki - 短期衝刺 200 更新](https://learn.microsoft.com/zh-tw/azure/devops/release-notes/2022/wiki/sprint-200-update)，目前只支援到 mermaid 到 8.13.9
 
-![image-20250217135010349](posts/tool/attach/typora/image-20250217135010349-174659308075433.png)
+![image-20250217135010349](/posts/tool/attach/typora/image-20250217135010349-174659308075433.png)
 
 ---
 
@@ -608,20 +608,20 @@ html <body> add
 
 加入匯出的Pandoc.path
 
-![image-20241114153155586](posts/tool/attach/typora/image-20241114153155586-173889219812629-173976474289876-1739764830939139-174659308075434.png)
+![image-20241114153155586](/posts/tool/attach/typora/image-20241114153155586-173889219812629-173976474289876-1739764830939139-174659308075434.png)
 
 ---
 
 - 可以簡單測試一下 匯出 word 跟 pdf 是否正常
 - 其他匯出功能也可用用看
 
-![image-20250217123246206](posts/tool/attach/typora/image-20250217123246206-174659308075435.png)
+![image-20250217123246206](/posts/tool/attach/typora/image-20250217123246206-174659308075435.png)
 
 
 
 word 檔案匯出，原本的級數標題都會變成 word 格式支援的標題類
 
-![image-20250217130938370](posts/tool/attach/typora/image-20250217130938370-174659308075436.png)
+![image-20250217130938370](/posts/tool/attach/typora/image-20250217130938370-174659308075436.png)
 
 ### 檔案匯出 匯出投影片 RevealJS
 
@@ -674,7 +674,7 @@ https://ivonblog.com/posts/vscode-marp-presentation/
 
 預設就有很多主題可以使用
 
-![image-20250217132832751](posts/tool/attach/typora/image-20250217132832751-174659308075437.png)
+![image-20250217132832751](/posts/tool/attach/typora/image-20250217132832751-174659308075437.png)
 
 
 
@@ -684,7 +684,7 @@ https://ivonblog.com/posts/vscode-marp-presentation/
 
 [Themes 下載連結 ](https://theme.typora.io/)
 
-![image-20250217131250440](posts/tool/attach/typora/image-20250217131250440-174659308075438.png)
+![image-20250217131250440](/posts/tool/attach/typora/image-20250217131250440-174659308075438.png)
 
 
 
@@ -692,7 +692,7 @@ https://ivonblog.com/posts/vscode-marp-presentation/
 
 下載好的主題怎麼用呢?
 
-![image-20241114151348378](posts/tool/attach/typora/image-20241114151348378-173889219812627-173976474289877-1739764830939140-174659308075439.png)
+![image-20241114151348378](/posts/tool/attach/typora/image-20241114151348378-173889219812627-173976474289877-1739764830939140-174659308075439.png)
 
 
 
@@ -700,4 +700,4 @@ https://ivonblog.com/posts/vscode-marp-presentation/
 2. 重新開啟typora
 3. 可以挑選更新的主題了
 
-![image-20241114151738570](posts/tool/attach/typora/image-20241114151738570-173889219812628-173976474289878-1739764830939141-174659308075440.png)
+![image-20241114151738570](/posts/tool/attach/typora/image-20241114151738570-173889219812628-173976474289878-1739764830939141-174659308075440.png)
