@@ -1,5 +1,6 @@
 ---
 title: RAG
+date: 2025-12-23T18:00:00+08:00
 menu:
   sidebar:
     name: RAG
