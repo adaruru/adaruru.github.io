@@ -11,6 +11,7 @@ tags:
 - RAG
 - AI
 - LLM
+- Tool
 ---
 
 # RAG

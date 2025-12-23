@@ -8,11 +8,10 @@ menu:
     identifier: typora
     parent: Tool
     weight: 10
-categories:
-- Tools
 tags:
 - Typora
 - Markdown
+- Tool
 ---
 
 # Typora
