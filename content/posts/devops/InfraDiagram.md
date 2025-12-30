@@ -7,6 +7,7 @@ menu:
     weight: 20
     parent: devops
 tags:
+- devops
 - Infrastructure
 - Mermaid
 - Drawio
@@ -58,8 +59,8 @@ graph LR
     
     red[["(1) netplan 192.168.168.n <br>(2) red represent idle for manual stand by"]]:::idle
     
-	client((client))
-	client --> Nginx
+    client((client))
+    client --> Nginx
     
     subgraph Server100["Server 100 windows"]
         nfsc100["nfs client<br>client conn 101"]

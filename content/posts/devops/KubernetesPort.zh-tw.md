@@ -7,8 +7,8 @@ menu:
     weight: 20
     parent: devops
 tags:
-- Kubernetes
 - devops
+- Kubernetes
 - container
 ---
 
