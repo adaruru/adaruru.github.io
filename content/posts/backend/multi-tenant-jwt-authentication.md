@@ -1,5 +1,6 @@
 ---
 title: Multi-Tenant JWT Authentication 
+date: 2025-12-11T00:00:00+08:00
 menu:
   sidebar:
     name: Multi-Tenant JWT Authentication 
@@ -10,6 +11,7 @@ tags:
 - backend
 - design-pattern
 - jwt
+- Stateless
 ---
 # LineCRM.CarCare 登入架構說明
 

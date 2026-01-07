@@ -1,5 +1,6 @@
 ---
 title: 多租戶 JWT 驗證架構
+date: 2025-12-11T00:00:00+08:00
 menu:
   sidebar:
     name: 多租戶 JWT 驗證架構
@@ -10,6 +11,7 @@ tags:
 - backend
 - design-pattern
 - jwt
+- Stateless
 ---
 # LineCRM.CarCare 登入架構說明
 
