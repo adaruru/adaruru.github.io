@@ -7,8 +7,6 @@ menu:
     name: Introduction
     identifier: introduction
     weight: 10
-tags: ["Basic"]
-categories: ["Basic"]
 ---
 
 This is where I document my work experiences and technical reflections, with a focus on software development, system architecture, DevOps, and real-world problem solving.

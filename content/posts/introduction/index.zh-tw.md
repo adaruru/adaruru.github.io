@@ -7,8 +7,6 @@ menu:
     name: 介紹
     identifier: introduction
     weight: 10
-tags: ["Basic"]
-categories: ["Basic"]
 ---
 
 這裡是我記錄工作歷程與技術思考的地方，聚焦於軟體開發、系統架構、DevOps 與實務問題的整理與分享。

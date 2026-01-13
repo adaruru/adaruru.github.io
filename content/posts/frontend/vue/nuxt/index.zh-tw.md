@@ -11,8 +11,8 @@ menu:
 hero: attach/forest.jpg
 tags:
 - nuxt
-categories:
 - frontend
+- vue
 ---
 
 # Nuxt3
