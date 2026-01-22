@@ -116,12 +116,10 @@ startMigration: () => {
 
 ##### 說明
 
-行為需要全域唯一性時，store 是最穩定的控制點
+行為需要全域唯一性時，store 是最穩定的控制點，若 action 會呼叫其他 action 形成流程，應進 store
 
 - 流程集中，語意清楚
 - 避免外部 orchestration 四散
-
-action 會呼叫其他 action，形成流程 → 應進 store
 
 #### Singleton 行為控制
 
@@ -129,14 +127,23 @@ action 會呼叫其他 action，形成流程 → 應進 store
 
 ##### 範例
 
-- migration
-- background sync
-- session refresh
+- 任何全局同步任務，通常全局只能跑一次: migration、background sync、session refresh
+
+  具有副作用昂貴、不可重入的特性。例如 migration 若同時執行多次可能造成資料衝突或重複處理。
+
+- Token 管理 / Refresh:  refreshToken() / isRefreshing flag / background refresh task
 
 ##### 說明
 
+防止重複，所以獨立管理在 store
+
 - 檢查 `isRunning`
+
+  用於全局控制，同時可以避免多個 component 或 request 重複觸發同一任務。
+
 - 防止重入（re-entrancy）
+
+  重入保護是 Singleton 核心要點，適用於所有全局唯一行為，包括 migration、background sync 及 token refresh。
 
 #### Store 內閉包的私有變數管理（非 State）
 
