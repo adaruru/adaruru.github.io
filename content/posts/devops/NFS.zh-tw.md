@@ -144,7 +144,7 @@ exportfs -ua
 # 2. 重新 export /etc/exports 內容
 exportfs -ra
 # 3. 檢查現有匯出
-exportfs -v"
+exportfs -v
 
 echo "===== 腳本執行完成 ====="
 ```
@@ -235,7 +235,7 @@ exportfs -ua
 # 2. 重新 export /etc/exports 內容
 exportfs -ra
 # 3. 檢查現有匯出
-exportfs -v"
+exportfs -v
 
 echo "===== 腳本執行完成 ====="
 
@@ -264,13 +264,14 @@ exportfs -ua
 # 2. 重新 export /etc/exports 內容
 exportfs -ra
 # 3. 檢查現有匯出
-exportfs -v"
+exportfs -v
 
 # Server 查看 NFS 日誌
 journalctl -u nfs-kernel-server -f
 
 # Server 確認 exports 設定
 nano /etc/exports
+cat /etc/exports
 
 # Client 查看掛載詳細信息
 mount -v -t nfs 192.168.100.141:/nfs /nfs
