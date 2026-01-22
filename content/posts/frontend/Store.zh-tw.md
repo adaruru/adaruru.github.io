@@ -7,7 +7,7 @@ menu:
     identifier: Store
     weight: 20
     parent: frontend
-hero: posts/frontend/attach/store/store.png
+hero: images/posts/store.png
 tags:
 - frontend
 - store
