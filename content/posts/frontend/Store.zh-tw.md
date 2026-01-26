@@ -67,6 +67,15 @@ web browser 有那些 Storage 可以提供持久化>> f12 >>Application 就可�
 
 僅列出有可驗證條件的情境( action 放進 store 是合理且必要的工程決策 )，避免架構過度設計。
 
+1. 長期存活的 callbacks
+2. setup / cleanup 生命週期配對
+3. Store Action 之間形成流程
+4. Singleton 行為控制
+5. Store 內閉包的私有變數管理（非 State）
+6. 多入口 + 高副作用成本行為
+7. 跨 component lifecycle 的行為一致性
+8. Rollback / Transaction 語意集中 (非必須，但有價值)
+
 #### 長期存活的 callbacks（Long-lived Callbacks）
 
 當 callback 的生命週期 超過單次 function 呼叫，並且會在未來反覆觸發、更新 state 時，action 必須放在 store。
@@ -164,7 +173,7 @@ let abortController: AbortController | null = null;
 - 利用 module scope / closure
 - 避免污染 state
 
-#### 多入口 + 高副作用成本
+#### 多入口 + 高副作用成本行為
 
 同一行為需要從多個入口觸發，且副作用成本高。
 
