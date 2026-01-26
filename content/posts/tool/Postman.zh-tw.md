@@ -7,6 +7,7 @@ menu:
     identifier: Postman
     parent: Tool
     weight: 10
+hero: images/posts/postman.png
 tags:
 - Postman
 - Api

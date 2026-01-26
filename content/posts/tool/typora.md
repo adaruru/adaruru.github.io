@@ -8,6 +8,7 @@ menu:
     identifier: typora
     parent: Tool
     weight: 10
+hero: images/posts/typora.png
 tags:
 - Typora
 - Markdown
