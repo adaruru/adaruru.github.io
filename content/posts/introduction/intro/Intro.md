@@ -1,6 +1,10 @@
 # Intro
 
-Hi, I'm Amanda. I've been working as a software engineer for about 6 years now, mostly with .NET and full-stack development. I started my career in a completely different field—I was doing tax and visa work at Deloitte. But I realized I wanted to build things, so I taught myself programming through online courses and LeetCode, and made the switch. Right now I'm at ITSOWER, where I've been for over 4 years. I work on banking systems and internal platforms. What I really enjoy is not just writing code, but also helping the team work better together. I've introduced things like GitFlow, CI/CD pipelines, and shared libraries—basically trying to reduce repetitive work so we can focus on what actually matters. I also like working with people. I've led small teams, helped set up coding standards, and I'm usually the person who suggests "hey, maybe we should document this" or "let's automate that." 
+Hi, I'm Amanda. I've been working as a software engineer for about 6 years now, mostly with .NET Framework and net core. 
+
+I started my career in a completely different field—I was doing tax and foreigner's visa work permit at Deloitte.
+
+But when I changed jobs, I was introduced to software engineering and discovered how interesting it is to build something. So I started teaching myself as a hobby, but during the learning process, I decided to make a career change. Right now I'm at ITSOWER, where I've been for over 4 years. I work on banking systems and internal platforms. What I really enjoy is not just writing code, but also helping the team work better together. I've introduced things like GitFlow, CI/CD pipelines, and shared libraries—basically trying to reduce repetitive work so we can focus on what actually matters. I also like working with people. I've led small teams, helped set up coding standards, and I'm usually the person who suggests "hey, maybe we should document this" or "let's automate that." 
 
 I think good communication makes everything easier, especially when you're dealing with legacy systems or tight deadlines. Lately I've been learning Go and exploring more backend architecture. 
 
