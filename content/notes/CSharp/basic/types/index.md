@@ -54,21 +54,37 @@ string greeting = $"Hello, {name}!";
 
 <!-- Number Types -->
 {{< note title="Numbers" >}}
-Typical types
+
+**整數 Integer**
+
+| 類型 | 大小 | 數學式 | 實際範圍 | 約莫 |
+|------|------|------|------|------|
+| `byte` | 8-bit | 0 ~ 2⁸-1 | 0 ~ 255 | 250 |
+| `short` | 16-bit | -2¹⁵ ~ 2¹⁵-1 | -32,768 ~ 32,767 | 正負 3 萬，4 位數 |
+| `int` | 32-bit | -2³¹ ~ 2³¹-1 | -2.1B ~ 2.1B | 正負 21 億，10 位數|
+| `long` | 64-bit | -2⁶³ ~ 2⁶³-1 | -9.2E ~ 9.2E | 正負 922 京，19 位數|
 
 ```csharp
-int num = 3;           // int (32-bit)
-double d = 3.14;       // double (64-bit)
-float f = 3.14f;       // float (32-bit)
-decimal m = 3.14m;     // decimal (128-bit)
+byte b = 255;
+short s = 32000;
+int num = 3;
+long l = 100000L;
 ```
 
-Other Types
+---
+
+**浮點 Floating**
+
+| 類型 | 大小 | 數學式 | 精度 |
+|------|------|------|------|
+| `float` | 32-bit | ±3.4×10³⁸ | ~7 位數 |
+| `double` | 64-bit | ±1.7×10³⁰⁸ | ~15 位數 |
+| `decimal` | 128-bit | ±7.9×10²⁸ | ~28 位數 |
 
 ```csharp
-long l = 100000L;      // long (64-bit)
-byte b = 255;          // byte (8-bit unsigned)
-short s = 32000;       // short (16-bit)
+float f = 3.14f;
+double d = 3.14;
+decimal m = 3.14m;
 ```
 
 {{< /note >}}
