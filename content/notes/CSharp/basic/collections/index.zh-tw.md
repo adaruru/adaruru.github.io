@@ -17,9 +17,10 @@ menu:
 
 ```csharp
 List<int> list = new List<int> { 1, 2, 3 };
-list.Add(4);
-list.Remove(2);     // 移除值 2
-list.RemoveAt(2);   // 移除索引 2
+list.Count;         // 3
+list.Add(4);        // { 1, 2, 3, 4 }
+list.Remove(2);     // 移除值 2，{1, 3, 4}
+list.RemoveAt(2);   // 移除索引 2，{1, 3}
 list.Contains(3);   // true
 list.IndexOf(1);    // 0
 list.Sort();
@@ -163,8 +164,14 @@ LinkedList<int> linked = new LinkedList<int>();
 linked.AddFirst(1);
 linked.AddLast(3);
 linked.AddAfter(linked.First, 2);  // 1 -> 2 -> 3
-linked.RemoveFirst();
-linked.RemoveLast();
+linked.Count;                      // 3
+var f = linked.First;              // 1
+var l = linked.Last;               // 3
+
+linked.RemoveFirst();              // 2 -> 3
+linked.RemoveLast();               // 2
+
+
 ```
 
 {{< /note >}}
