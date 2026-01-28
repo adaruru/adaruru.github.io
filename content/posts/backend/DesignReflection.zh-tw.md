@@ -7,6 +7,7 @@ menu:
     identifier: DesignReflection 
     weight: 20
     parent: backend
+hero: images/posts/DesignReflection.png
 tags:
 - backend
 - SA
